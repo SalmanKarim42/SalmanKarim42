@@ -47,4 +47,4 @@ Welcome to my GitHub profile! I'm a seasoned freelancer with 6 years of experien
 
 
 ### 📊 GitHub Activity Graph
-![Salman's GitHub Activity Graph](https://github-contribution-graph-example-5wrcbquhe.vercel.app/)
+[![Salman's GitHub Activity Graph](https://github-contribution-graph-example-kohl.vercel.app/preview.png)](https://github-contribution-graph-example-kohl.vercel.app)
