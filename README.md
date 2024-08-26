@@ -45,3 +45,6 @@ Welcome to my GitHub profile! I'm a seasoned freelancer with 6 years of experien
 - **DevOps:** Docker, Git, GitHub Actions
 - **Currently Learning:** Java with Spring
 
+
+### 📊 GitHub Activity Graph
+![Salman's GitHub Activity Graph](https://github-contribution-graph-example-5wrcbquhe.vercel.app/)
